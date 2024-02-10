@@ -2,7 +2,7 @@
 
 const StarsCanvas = () => {
     return (
-        <div>Stats</div>
+        <div>Stars</div>
       )
     }
     
